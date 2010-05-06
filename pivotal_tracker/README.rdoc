@@ -1,6 +1,7 @@
 = pivotal_tracker
 
-Description goes here.
+This agent captures post requests from Pivotal Tracker and updates the Edash dashboard project
+with the progress done in an iteration.
 
 == Note on Patches/Pull Requests
  
